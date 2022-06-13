@@ -13,3 +13,5 @@ def sorting(data):
 
 data = [10, 2, 5, 1, 7, 823, 23, 6]
 print(sorting(data))
+data = [34, 51, 5234, 56, 12, 2, 5, 1, 32, 2, 3, 5]
+print(sorting(data))
